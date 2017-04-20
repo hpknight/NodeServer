@@ -1,0 +1,15 @@
+{
+  "name": "cm-server",
+  "version": "1.0.0",
+  "description": "Basic node server with modular api routing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himan Patel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
